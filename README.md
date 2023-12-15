@@ -1,4 +1,4 @@
-Employee_Review_System
+Issue_Tracker_Application
 An application that allows user's to creates issues toward each other’s project
 
 Install
