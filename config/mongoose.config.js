@@ -4,7 +4,7 @@ import mongoose from "mongoose";
 
 
 
-const url=process.env.DB_URL || "mongodb://127.0.0.1:27017/issueTracker";
+const url=process.env.DB_URL || "mongodb+srv://clouduser:ltd2233@cluster0.lqs0kjp.mongodb.net/?retryWrites=true&w=majority";
 
 console.log(url);
 
